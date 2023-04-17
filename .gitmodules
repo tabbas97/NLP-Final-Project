@@ -1,0 +1,3 @@
+[submodule "abstractive/pegasus"]
+	path = abstractive/pegasus
+	url = https://github.com/google-research/pegasus.git
